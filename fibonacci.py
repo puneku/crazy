@@ -6,6 +6,9 @@ n = int(input("Enter a number\n"))
 def fibonacci(n):
     ft = 0 
     st = 1
+    if n <= 0 :
+        print("Invalid input ! Try again")
+        exit("Non-positive number")
     if n == 1 :
         print(ft)
     else:
