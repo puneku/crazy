@@ -2,5 +2,5 @@
 # Printing fibonacci series
 # Exception handled : non-positive number 
 
-#crazy/factorial.py
+# crazy/factorial.py
 # calculating factorial of a number
