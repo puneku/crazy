@@ -1,6 +1,6 @@
 import mysql.connector as msc
 
-mydb = msc.connect(host="localhost",user="puneku",passwd="pun6sa3rA",database="world")
+mydb = msc.connect(host="localhost",user="puneku",passwd="*********",database="world")
 
 cursor = mydb.cursor()
 
